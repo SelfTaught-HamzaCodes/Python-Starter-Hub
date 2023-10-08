@@ -1,15 +1,14 @@
 ## Projects Hub
 Beginner-friendly project collection with guiding comments. Hone your coding skills by trying them out.
-
+<br></br>
 ### Projects
+***
 - Hangman.
-       
-         - Requires words.txt.
+  - **Requires**: words.txt.
 - Amusement Park.
 - Authentication.
 - Desktop Notifier.
-
-        - Requires external dependencies.
+  - **Requires**: external dependencies.
 - Email Slicer.
 - Find Out! Fibonacci.
 - Leap It.
@@ -17,8 +16,7 @@ Beginner-friendly project collection with guiding comments. Hone your coding ski
 - Story Generator.
 - Text-based Adventure.
 - Youtube Video Downloader.
-
-        - Requires external dependencies.
+  - **Requires**: external dependencies.
 ***
 Cheers,  
 Muhammad Hamza Saeed.
