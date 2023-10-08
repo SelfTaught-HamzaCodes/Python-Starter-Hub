@@ -8,6 +8,7 @@ Beginner-friendly project collection with guiding comments. Hone your coding ski
 Tailored questions to challenge yourself and foster personal growth in your programming journey.
 ***
 ### 🆓 Resources
+- [**W3 Schools**](https://www.w3schools.com/python/), W3Schools provides Python tutorials, interactive coding, examples, quizzes, and certifications.
 - **Mimo**, an application to learn and practice on the go, [**Python | Mimo**](https://mimo.org/glossary/python).
 - [**Python Tutorial - Python Full Course for Beginners**](https://www.youtube.com/watch?v=_uQrJ0TkZlc), a comprehensive tutorial to get you started.
 - [**CS50P by Harvard**](https://cs50.harvard.edu/python/2022/), an excellent course to start your run in Python.
