@@ -3,7 +3,19 @@ Beginner-friendly project collection with guiding comments. Hone your coding ski
 
 ### Projects
 - Hangman.
-    Requires words.txt.
+        - Requires words.txt.
 - Amusement Park.
-- User Authentication.
+- Authentication.
 - Desktop Notifier.
+        - Requires external dependencies.
+- Email Slicer.
+- Find Out! Fibonacci.
+- Leap It.
+- Number Guessing.
+- Story Generator.
+- Text-based Adventure.
+- Youtube Video Downloader.
+        - Requires external dependencies.
+***
+Cheers,  
+Muhammad Hamza Saeed.
